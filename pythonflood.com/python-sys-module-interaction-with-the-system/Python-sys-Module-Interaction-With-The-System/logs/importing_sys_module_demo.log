@@ -1,0 +1,14 @@
+2024-05-1716998830 21:37:10.1716998830 | root | DEBUG | type(sys)=<class 'module'>
+2024-05-1716998987 21:39:47.1716998987 | root | DEBUG | type(sys)=<class 'module'>
+2024-05-1716999063 21:41:03.1716999063 | root | DEBUG | type(sys)=<class 'module'>
+2024-05-1716999099 21:41:39.1716999099 | root | DEBUG | type(sys)=<class 'module'>
+2024-05-1716999099 21:41:39.1716999099 | root | DEBUG | type(logging)=<class 'module'>
+2024-05-1716999099 21:41:39.1716999099 | root | DEBUG | logging.__file__='/usr/lib64/python3.12/logging/__init__.py'
+2024-05-1716999099 21:41:39.1716999099 | root | DEBUG | logging.__path__=['/usr/lib64/python3.12/logging']
+2024-05-1716999099 21:41:39.1716999099 | root | DEBUG | type(Path)=<class 'type'>
+2024-05-1716999129 21:42:09.1716999129 | root | DEBUG | type(sys)=<class 'module'>
+2024-05-1716999129 21:42:09.1716999129 | root | DEBUG | type(logging)=<class 'module'>
+2024-05-1716999129 21:42:09.1716999129 | root | DEBUG | logging.__file__='/usr/lib64/python3.12/logging/__init__.py'
+2024-05-1716999129 21:42:09.1716999129 | root | DEBUG | logging.__path__=['/usr/lib64/python3.12/logging']
+2024-05-1716999129 21:42:09.1716999129 | root | DEBUG | type(Path)=<class 'type'>
+2024-05-1716999129 21:42:09.1716999129 | root | ERROR | attributeError=AttributeError("type object 'Path' has no attribute '__path__'")
